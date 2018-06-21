@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">TipCalculator</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="percent">Percent</string>
+    <string name="tip">Tip</string>
+    <string name="rounding">Rounding</string>
+    <string name="total">Total</string>
+    <string name="noneRB">None</string>
+    <string name="tipRB">Tip</string>
+    <string name="totalRB">Total</string>
+    <string name="split_bill">Split Bill?</string>
+    <string name="per_person">Per Person</string>
+    <string name="tipLabel">Tip</string>
+    <string name="totalLabel">Total</string>
+    <string name="none">None</string>
+    <string-array name="split_array">
+        <item >No</item>
+        <item >2 ways</item>
+        <item >3 ways</item>
+        <item >4 ways</item>
+    </string-array>
 </resources>
